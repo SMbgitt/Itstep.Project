@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EC4A49B3-7DF0-4FB8-B243-0B45D3DD6A3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diary", "Diary\Diary.csproj", "{442221AE-EA45-41CF-A383-631D1D7E4D2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442221AE-EA45-41CF-A383-631D1D7E4D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442221AE-EA45-41CF-A383-631D1D7E4D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442221AE-EA45-41CF-A383-631D1D7E4D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442221AE-EA45-41CF-A383-631D1D7E4D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{442221AE-EA45-41CF-A383-631D1D7E4D2C} = {EC4A49B3-7DF0-4FB8-B243-0B45D3DD6A3B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFEFBA86-A8E5-4FD1-B0A0-76077C47E454}
+	EndGlobalSection
+EndGlobal
